@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xaea12.github.io/static/css/main.c4ffcb55.css",
+    "main.js": "/xaea12.github.io/static/js/main.8f8f9acf.js",
+    "index.html": "/xaea12.github.io/index.html",
+    "main.c4ffcb55.css.map": "/xaea12.github.io/static/css/main.c4ffcb55.css.map",
+    "main.8f8f9acf.js.map": "/xaea12.github.io/static/js/main.8f8f9acf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4ffcb55.css",
+    "static/js/main.8f8f9acf.js"
+  ]
+}
